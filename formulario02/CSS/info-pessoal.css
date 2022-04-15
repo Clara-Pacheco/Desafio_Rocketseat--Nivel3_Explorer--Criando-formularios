@@ -21,3 +21,57 @@
   align-items: center;
 
 }
+
+.info-pessoal .nome label,
+.info-pessoal .sobrenome label,
+.info-pessoal .email label{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #4E4958;
+}
+
+.info-pessoal .nome-completo #nome,
+.info-pessoal .nome-completo #sobrenome,
+.info-pessoal .email #email {
+  width: 300px;
+  height: 56px;
+  border-radius: 8px;
+  background-color: #FAFAFC;
+  border: 1px solid #E6E6F0;
+  box-sizing: border-box;
+}
+
+.info-pessoal .email {
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  margin-left: 64px;
+  margin-right: 64px;
+  margin-bottom: 32px;
+}
+
+.info-pessoal .email #email {
+  width: 622px;
+  
+}
+
+.nome {
+  display: flex;
+  flex-direction: column;
+}
+
+.sobrenome {
+  display: flex;
+  flex-direction: column;
+}
+
+.nome-completo {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 32px;
+  margin-left: 64px;
+  margin-right: 64px;
+}
