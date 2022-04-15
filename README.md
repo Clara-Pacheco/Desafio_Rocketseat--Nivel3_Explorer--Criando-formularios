@@ -25,7 +25,7 @@ Construção de formulários 📄
 
 ### 🧪 Tecnologias | HTML e CSS
 
-![Form01's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/formulario01/assets/image.png)
+![Form01's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/assets/image.png)
 
 ### Desafio 02 - Formulário 02
 
