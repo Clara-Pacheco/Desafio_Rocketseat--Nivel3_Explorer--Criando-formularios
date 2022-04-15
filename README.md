@@ -9,7 +9,7 @@
 </p>
 </div>  
 
-📕 # Sobre  
+### 📕 Sobre  
 
 Este é um projeto desenvolvido em treinamento, juntamente com [Rocketseat](https://www.rocketseat.com.br/) 🚀 no decorrer do programa Explorer.
 
@@ -22,6 +22,8 @@ do programa Explorer da Rocketset 🚀
 Construção de formulários 📄
 
 ### Desafio 01 - Formulário 01  
+
+### 🧪 Tecnologias | HTML e CSS
 
 ![Form01's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/formulario01/assets/image.png)
 
@@ -47,4 +49,4 @@ Nesse abordaremos:
 
 🌎 Result Preview: Veja o Projeto
 
-☑️ Task: Construir um site estático a partir do projeto feito no Figma.
+☑️ Task: Construir um site estático a partir do projeto feito no ![Figma](https://www.figma.com/?msclkid=9190e8d5bccb11ec9338e3c47d8ab09e).
