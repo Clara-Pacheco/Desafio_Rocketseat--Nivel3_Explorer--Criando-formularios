@@ -1,0 +1,23 @@
+.info-pessoal .leg-info-pessoal {
+  width: 750px;
+  height: 133px;
+  border-radius: 20px 20px 0 0;
+  background-color: #F67669;
+  margin: auto;
+
+  position: absolute;
+  top: 332px;
+  left: 345px;
+  right: 345px;
+
+  font-family: 'Staatliches', cursive;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: auto;
+  color: #ffffff;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
