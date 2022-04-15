@@ -49,4 +49,4 @@ Nesse abordaremos:
 
 🌎 Result Preview: Veja o Projeto
 
-☑️ Task: Construir um site estático a partir do projeto feito no ![Figma](https://www.figma.com/?msclkid=9190e8d5bccb11ec9338e3c47d8ab09e).
+☑️ Task: Construir um site estático a partir do projeto feito no [Figma](https://www.figma.com/?msclkid=9190e8d5bccb11ec9338e3c47d8ab09e).
