@@ -49,7 +49,7 @@ Nesse abordaremos:
 
 🌎 Result Preview: 
 
-- [Formulario 01]( https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/)
+- [Formulario 01]( https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/formulario01/index.html)
 - [Formulário 02]()
 
 ☑️ Task: Construir um site estático a partir do projeto feito no [Figma](https://www.figma.com/?msclkid=9190e8d5bccb11ec9338e3c47d8ab09e).
