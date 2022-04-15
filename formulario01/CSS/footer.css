@@ -12,3 +12,25 @@ footer {
   left: 345px;
   
 }
+
+button {
+  width: 608px;
+  height: 56px;
+  border-radius: 20px;
+  background-color: #FF5374;
+  border: none;
+ 
+  font-family: 'Staatliches';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #ffffff;
+
+  position: absolute;
+  top: 53px;
+  left: 71px;
+  right: 71px;
+  bottom: 52px              ;
+
+}
