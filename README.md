@@ -39,7 +39,7 @@ Nesse abordaremos:
 - Campo checkbox;
 - Imagem centralizada no header.
 
-![Form02's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/formulario02/assets/image-form2.png)
+![Form02's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/assets/image.png)
 
 ### Informações
 
