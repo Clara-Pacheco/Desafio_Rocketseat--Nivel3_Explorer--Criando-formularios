@@ -1,5 +1,23 @@
 .site-container {
   width: 1440px;
   height: 1930px;
+
+  background-color: #EFEFEF;
+
   position: relative;
+}
+
+.form-wrapper {
+  width: 750px;
+  height: 1084px;
+  background-color: #ffffff;
+  margin: auto;
+
+  border-radius: 20px 20px 0 0;
+
+  position: absolute;
+  top: 322px;
+  left: 345px;
+  right: 345px;
+
 }
