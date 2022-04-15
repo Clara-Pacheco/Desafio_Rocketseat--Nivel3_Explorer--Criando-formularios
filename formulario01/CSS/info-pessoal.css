@@ -10,7 +10,8 @@
   margin-bottom: 30px;
 }
 
-.info-pessoal-wrapper legend {
+.info-pessoal-wrapper legend,
+.mentor-wrapper legend {
   font-family: 'Staatliches', cursive;
   font-size: 24px;
   font-weight: 400;
@@ -20,7 +21,8 @@
   margin-bottom: 16px;
 }
 
-.info-pessoal-wrapper hr {
+.info-pessoal-wrapper hr,
+.mentor-wrapper hr {
    width: 622px;
    border: 1px solid #E6E6F0;
    background-color: #E6E6F0;
@@ -28,7 +30,8 @@
    margin-bottom: 36px;
 }
 
-.info-pessoal-wrapper label {
+.info-pessoal-wrapper label,
+.mentor-wrapper label {
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -37,7 +40,8 @@
 
 }
 
-.info-pessoal-wrapper label span {
+.info-pessoal-wrapper label span,
+.mentor-wrapper label span {
   font-size: 12px;
   line-height: 20px;
   color: #C1BCCC;
@@ -47,7 +51,8 @@
 .info-pessoal-wrapper #nome, 
 .info-pessoal-wrapper #sobrenome, 
 .info-pessoal-wrapper #email, 
-.info-pessoal-wrapper #senha {
+.info-pessoal-wrapper #senha,
+.mentor-wrapper #nome-mentor {
   width: 300px;
   height: 56px;
   background-color: #FAFAFC;
@@ -59,7 +64,8 @@
 }
 
 .info-pessoal-wrapper #email,
-.info-pessoal-wrapper #senha {
+.info-pessoal-wrapper #senha,
+.mentor-wrapper #nome-mentor {
   width: 622px;
 }
 
