@@ -1,0 +1,14 @@
+.info-mentor {
+  width: 622px;
+  height: 444px;
+  margin: auto;
+}
+
+.info-mentor .leg-info-mentor {
+  font-family: 'Staatliches', cursive;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  color: #293241;
+  text-align: center;
+}
