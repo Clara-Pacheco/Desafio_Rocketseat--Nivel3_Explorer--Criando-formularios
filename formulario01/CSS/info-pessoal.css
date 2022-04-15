@@ -1,0 +1,89 @@
+.info-pessoal-wrapper {
+  width: 622px;
+  height: 382px;
+  margin: auto;
+
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 64px;
+  margin-bottom: 30px;
+}
+
+.info-pessoal-wrapper legend {
+  font-family: 'Staatliches', cursive;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  color:#535971;
+
+  margin-bottom: 16px;
+}
+
+.info-pessoal-wrapper hr {
+   width: 622px;
+   border: 1px solid #E6E6F0;
+   background-color: #E6E6F0;
+
+   margin-bottom: 36px;
+}
+
+.info-pessoal-wrapper label {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #4E4958;
+
+}
+
+.info-pessoal-wrapper label span {
+  font-size: 12px;
+  line-height: 20px;
+  color: #C1BCCC;
+
+}
+
+.info-pessoal-wrapper #nome, 
+.info-pessoal-wrapper #sobrenome, 
+.info-pessoal-wrapper #email, 
+.info-pessoal-wrapper #senha {
+  width: 300px;
+  height: 56px;
+  background-color: #FAFAFC;
+  border-radius: 8px;
+  border: 1px solid #E6E6F0;
+  box-sizing: border-box;
+
+  margin-top: 9px;
+}
+
+.info-pessoal-wrapper #email,
+.info-pessoal-wrapper #senha {
+  width: 622px;
+}
+
+.nome-completo {
+  display: flex;
+
+  margin-bottom: 16px;
+  
+}
+
+.nome-completo .nome {
+  margin-right: 22px;
+}
+
+.info-pessoal-wrapper .email label span,
+.info-pessoal-wrapper .senha label span {
+  margin-left: 9px;
+
+}
+
+.info-pessoal-wrapper #email {
+  margin-bottom: 16px;
+}
+
+.info-pessoal-wrapper #senha {
+  margin-bottom: 30px;
+}
