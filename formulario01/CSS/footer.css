@@ -1,0 +1,14 @@
+footer {
+  width: 750px;
+  height: 160px;
+
+  border-radius: 0 0 20px 20px;
+
+  background-color: #535971;
+
+  position: absolute;
+  top: 1404px;
+  right: 345px;
+  left: 345px;
+  
+}
