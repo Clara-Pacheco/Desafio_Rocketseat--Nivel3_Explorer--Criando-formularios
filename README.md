@@ -25,7 +25,7 @@ Construção de formulários 📄
 
 ### 🧪 Tecnologias | HTML e CSS
 
-![Form01's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/formulario01/assets/image.png)
+![Form01's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/assets/image.png)
 
 ### Desafio 02 - Formulário 02
 
@@ -39,7 +39,7 @@ Nesse abordaremos:
 - Campo checkbox;
 - Imagem centralizada no header.
 
-![Form02's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/formulario02/assets/image-form2.png)
+![Form02's screenshot](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/blob/main/assets/image-form2.png)
 
 ### Informações
 
@@ -49,7 +49,7 @@ Nesse abordaremos:
 
 🌎 Result Preview: 
 
-- [Formulario 01]( https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/)
+- [Formulario 01]( https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/formulario01/index.html)
 - [Formulário 02]()
 
 ☑️ Task: Construir um site estático a partir do projeto feito no [Figma](https://www.figma.com/?msclkid=9190e8d5bccb11ec9338e3c47d8ab09e).
