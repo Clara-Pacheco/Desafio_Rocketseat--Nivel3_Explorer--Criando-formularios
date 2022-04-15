@@ -1,0 +1,51 @@
+.horarios-wrapper {
+  width: 622px;
+  height: 350px;
+  margin: auto;
+  
+}
+
+.horarios-wrapper legend {
+  margin-top: 32px;
+}
+
+.horarios-wrapper h2 {
+  font-size: 20px;
+}
+
+.horarios-wrapper .segunda-mentoria {
+  margin-top: 16px;
+}
+
+.horarios-wrapper #hora-inicial,
+.horarios-wrapper #hora-final,
+.horarios-wrapper #hora-inicial2,
+.horarios-wrapper #hora-final2 {
+  width: 140px;
+  height: 56px;
+  background-color: #FAFAFC;
+  border-radius: 8px;
+  border: 1px solid #E6E6F0;
+  box-sizing: border-box;
+  margin-top: 8px;
+  margin-left: 10px;
+
+}
+
+.primeira-mentoria,
+.segunda-mentoria {
+  display: flex;
+  align-items: center;
+}
+
+.horarios-wrapper .hora-inicial label,
+.horarios-wrapper .hora-final label,
+.horarios-wrapper .hora-inicial2 label,
+.horarios-wrapper .hora-final2 label {
+  margin-left: 10px;
+}
+
+.horarios-wrapper .data label span,
+.horarios-wrapper .data2 label span {
+  margin-left: 8px;
+}
