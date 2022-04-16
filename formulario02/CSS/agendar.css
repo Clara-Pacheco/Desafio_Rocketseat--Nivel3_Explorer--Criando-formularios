@@ -1,0 +1,73 @@
+.agendar .leg-agendar {
+  margin-top: 36px;
+}
+
+.horario {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.agendar {
+  width: 622px;
+  height: 162px;
+  
+  position: relative;
+  top: 0;
+  left: 64px;
+  right: 64px;
+  bottom: 179px;
+}
+
+.agendar .date {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.agendar #date {
+  width: 300px;
+  height: 56px;
+  border: 1px solid #E6E6F0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: #FAFAFC;
+
+
+}
+
+.agendar .time1,
+.agendar .time2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.agendar #time1,
+.agendar #time2 {
+  width: 140px;
+  height: 56px;
+  border: 1px solid #E6E6F0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: #FAFAFC;
+  
+}
+
+button {
+  width: 622px;
+  height: 51px;
+  background: #F67669;
+  border-radius: 8px;
+
+  font-family: 'Staatliches';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #ffffff;
+
+  border: none;
+
+  position: relative;
+  top: 68px;
+
+}
