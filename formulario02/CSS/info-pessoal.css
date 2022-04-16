@@ -24,12 +24,25 @@
 
 .info-pessoal .nome label,
 .info-pessoal .sobrenome label,
-.info-pessoal .email label{
+.info-pessoal .email label,
+.agendar .date label,
+.agendar .time1 label,
+.agendar .time2 label {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   color: #4E4958;
+}
+
+.info-pessoal .email label span,
+.agendar .date label span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: #C1BCCC;
+  margin-left: 6px;
 }
 
 .info-pessoal .nome-completo #nome,
@@ -41,6 +54,8 @@
   background-color: #FAFAFC;
   border: 1px solid #E6E6F0;
   box-sizing: border-box;
+
+  margin-top: 8px;
 }
 
 .info-pessoal .email {
