@@ -43,13 +43,14 @@ Nesse abordaremos:
 
 ### Informações
 
-📅 15.04.2022
+📅 15.04.2022 - Início
+📅 16.04.2022 - Finalização
 
-🕛 Status: Em andamento✔️
+🕛 Status: Concluído✔️
 
 🌎 Result Preview: 
 
 - [Formulario 01]( https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/formulario01/index.html)
-- [Formulário 02]()
+- [Formulário 02](https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Criando-formularios/formulario02/index.html)
 
 ☑️ Task: Construir um site estático a partir do projeto feito no [Figma](https://www.figma.com/?msclkid=9190e8d5bccb11ec9338e3c47d8ab09e).
