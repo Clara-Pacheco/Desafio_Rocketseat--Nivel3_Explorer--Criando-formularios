@@ -14,3 +14,14 @@
   margin: auto;
 
 }
+
+
+.info-pessoal .nome #nome:invalid,
+.info-pessoal .sobrenome #sobrenome:invalid,
+.info-pessoal .email #email:invalid,
+.info-mentor .feedback #feedback:invalid,
+.horario .date #date:invalid,
+.horario .time1 #time1:invalid,
+.horario .time2 #time2:invalid {
+  border: 2px solid red;
+}
